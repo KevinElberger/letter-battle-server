@@ -1,0 +1,30 @@
+{
+  "name": "letter-battle",
+  "version": "1.0.0",
+  "description": "A game where you put your vocabulary to the test",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "Kevin Elberger",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@colyseus/loadtest": "^0.10.1",
+    "@types/express": "^4.16.1",
+    "babel-loader": "^8.0.6",
+    "colyseus": "^0.10.7",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@colyseus/monitor": "^0.10.0",
+    "@colyseus/social": "^0.10.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1"
+  }
+}
