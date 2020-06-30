@@ -13,7 +13,7 @@
     "@colyseus/social": "^0.10.2",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.5",
     "@babel/cli": "^7.4.4",
