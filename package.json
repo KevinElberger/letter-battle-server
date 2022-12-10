@@ -12,7 +12,7 @@
     "@colyseus/monitor": "^0.10.0",
     "@colyseus/social": "^0.10.2",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.5",
